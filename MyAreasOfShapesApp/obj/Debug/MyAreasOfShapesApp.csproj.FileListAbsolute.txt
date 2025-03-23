@@ -1,0 +1,7 @@
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\bin\Debug\MyAreasOfShapesApp.exe.config
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\bin\Debug\MyAreasOfShapesApp.exe
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\bin\Debug\MyAreasOfShapesApp.pdb
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\obj\Debug\MyAreasOfShapesApp.csproj.AssemblyReference.cache
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\obj\Debug\MyAreasOfShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\obj\Debug\MyAreasOfShapesApp.exe
+C:\Users\DoggyDigital\source\repos\MyAreasOfShapesApp\obj\Debug\MyAreasOfShapesApp.pdb
